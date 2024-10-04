@@ -2,7 +2,7 @@
 
 ## Senior Software Engineer | ASP.NET Core | MVC | React
 
-A skilled senior software engineer with over 7.10 years of experience in .NET technologies, React, and Next.js. Known for strong problem-solving abilities and effective communication skills, committed to delivering high-quality software solutions.
+A skilled senior software engineer with over 7.10 years of experience in .NET technologies, with 6 months of entry-level experience in React and Next.js. Known for strong problem-solving abilities and effective communication skills, committed to delivering high-quality software solutions.
 
 ### 👀 I’m interested in:
 - Web application development using ASP.NET Core and React
