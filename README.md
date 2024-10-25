@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @sumraimtiyaz
+# Hi, I’m @sumraimtiyaz
 
 ## Senior Software Engineer | ASP.NET Core | MVC | React
 
