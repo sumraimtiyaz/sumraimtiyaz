@@ -25,9 +25,6 @@ A skilled senior software engineer with over 7.10 years of experience in .NET te
 - **WhatsApp:** +91 9033891358 (WhatsApp)
 - **LinkedIn:** https://www.linkedin.com/in/sumra-imtiyaz
 
-### ⚡ Fun fact:
-- I love debugging code almost as much as solving puzzles! I'm always eager to learn new technologies, languages, and concepts. Whether it's diving into a new programming language, exploring cloud services, or mastering modern frameworks like React and Next.js, I thrive on expanding my knowledge. My passion for continuous learning helps me stay up-to-date with the latest trends in software development, ensuring that I can deliver efficient and innovative solutions to any challenge.
-
 ## 🛠️ Technical Skills
 
 ### ⚙️ .NET Framework & .NET Core Development
