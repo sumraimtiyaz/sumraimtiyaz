@@ -4,18 +4,18 @@
 
 A skilled senior software engineer with over 7.10 years of experience in .NET technologies, with 6 months of entry-level experience in React and Next.js. Known for strong problem-solving abilities and effective communication skills, committed to delivering high-quality software solutions.
 
-### 👀 I’m interested in:
+### I’m interested in:
 - Web application development using ASP.NET Core and React
 - Developing scalable and efficient systems with cloud technologies like AWS (EC2, ECS)
 - Exploring emerging front-end frameworks like Next.js and improving UI/UX performance
 - Experimenting with testing frameworks like NUnit
 
-### 🌱 I’m currently learning:
+### I’m currently learning:
 - Advanced TypeScript features and Next.js
 - Tailwind CSS for rapid UI development
 - Cypress for end-to-end testing
 
-### 💞️ I’m looking to collaborate on:
+### I’m looking to collaborate on:
 - Open-source projects related to ASP.NET Core, React, or cloud-based solutions
 - Building API-driven applications using modern microservice architecture
 - Cloud-native solutions with AWS and exploring serverless architecture
@@ -24,9 +24,6 @@ A skilled senior software engineer with over 7.10 years of experience in .NET te
 - **Email:** sumra_imtiyaz@yahoo.com
 - **WhatsApp:** +91 9033891358 (WhatsApp)
 - **LinkedIn:** https://www.linkedin.com/in/sumra-imtiyaz
-
-### 😄 Pronouns:
-- He/Him
 
 ### ⚡ Fun fact:
 - I love debugging code almost as much as solving puzzles! I'm always eager to learn new technologies, languages, and concepts. Whether it's diving into a new programming language, exploring cloud services, or mastering modern frameworks like React and Next.js, I thrive on expanding my knowledge. My passion for continuous learning helps me stay up-to-date with the latest trends in software development, ensuring that I can deliver efficient and innovative solutions to any challenge.
