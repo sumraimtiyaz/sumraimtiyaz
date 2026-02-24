@@ -1,6 +1,6 @@
 # Hi, I’m @sumraimtiyaz
 
-## Senior Software Engineer | ASP.NET Core | MVC | React
+## Senior Software Engineer | ASP.NET Core | MVC | React | Python
 
 A skilled senior software engineer with over 9 years of experience in .NET technologies, with 6 months of entry-level experience in React and Next.js. Known for strong problem-solving abilities and effective communication skills, committed to delivering high-quality software solutions.
 
