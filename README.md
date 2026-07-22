@@ -10,11 +10,6 @@ A skilled senior software engineer with over 9 years of experience in .NET techn
 - Exploring emerging front-end frameworks like Next.js and improving UI/UX performance
 - Experimenting with testing frameworks like NUnit
 
-### I’m currently learning:
-- Advanced TypeScript features and Next.js
-- Tailwind CSS for rapid UI development
-- Cypress for end-to-end testing
-
 ### I’m looking to collaborate on:
 - Open-source projects related to ASP.NET Core, React, or cloud-based solutions
 - Building API-driven applications using modern microservice architecture
