@@ -1,57 +1,97 @@
 # Hi, I’m @sumraimtiyaz
 
-## Senior Software Engineer | ASP.NET Core | MVC | React | Python
+## Senior Software Engineer | .NET | Python | React | Flutter
 
-A skilled senior software engineer with over 9 years of experience in .NET technologies, with 6 months of entry-level experience in React and Next.js. Known for strong problem-solving abilities and effective communication skills, committed to delivering high-quality software solutions.
+A senior software engineer with **9 years of experience in .NET technologies** and **1 year building production systems in Python (Django, Django REST Framework, FastAPI)**. I design and ship scalable REST and real-time (WebSocket) APIs, multi-tenant SaaS platforms, and cross-platform mobile apps. Known for strong problem-solving, clear communication, and full ownership from architecture to deployment.
 
-### I’m interested in:
-- Web application development using ASP.NET Core and React
-- Developing scalable and efficient systems with cloud technologies like AWS (EC2, ECS)
-- Exploring emerging front-end frameworks like Next.js and improving UI/UX performance
-- Experimenting with testing frameworks like NUnit
+### I'm interested in:
+- Full-stack web application development with ASP.NET Core, Django, FastAPI, React, and Next.js
+- Real-time, event-driven systems (WebSockets, time-series data, live dashboards)
+- Multi-tenant SaaS platforms with role-based access control and secure JWT authentication
+- Cross-platform mobile development with Flutter / Dart, including offline-first sync patterns
+- Cloud-native and containerized deployments with Docker, Docker Compose, and AWS (EC2, ECS, S3)
+- Clean, testable architectures — Clean Architecture, Hexagonal (Ports & Adapters), CQRS, and SOLID
 
-### I’m looking to collaborate on:
-- Open-source projects related to ASP.NET Core, React, or cloud-based solutions
-- Building API-driven applications using modern microservice architecture
-- Cloud-native solutions with AWS and exploring serverless architecture
+### I'm looking to collaborate on:
+- Open-source projects in ASP.NET Core, Django/FastAPI, React, or cloud-based solutions
+- API-driven applications built on modern microservice or hexagonal architectures
+- Real-time monitoring, observability, or IoT-style telemetry platforms
+- Cross-platform mobile apps with offline-first sync
+- Serverless and cloud-native workloads on AWS
 
-### 📫 How to reach me:
-- **Email:** sumra_imtiyaz@yahoo.com
-- **WhatsApp:** +91 9033891358 (WhatsApp)
-- **LinkedIn:** https://www.linkedin.com/in/sumra-imtiyaz
+---
 
 ## 🛠️ Technical Skills
 
-### ⚙️ .NET Framework & .NET Core Development
-- Proficient in developing applications using .NET Core, ASP.NET MVC, Web Forms, LINQ, ORM (Dapper and Entity Framework), and VB.NET.
-- Experience with unit testing frameworks such as NUnit.
+### ⚙️ Backend — .NET
+- .NET Core, .NET Framework, ASP.NET MVC, Web Forms, Web APIs (REST / Swagger)
+- Entity Framework Core, Dapper, LINQ, VB.NET
+- Unit testing with NUnit and XUnit
 
-### 💻 Front-End & Reporting Tools
-- Expertise with React, Next.js, iTextSharp, Crystal Reports, Thymeleaf Template, WPF, and Windows Services.
-- Hands-on with front-end technologies like Ajax, JQuery, JavaScript, Bootstrap, CSS, and HTML.
+### 🐍 Backend — Python
+- Django, Django REST Framework, Django Channels, Daphne (ASGI)
+- FastAPI, Uvicorn, Pydantic v2
+- SQLAlchemy 2.0, Alembic migrations, psycopg 3
+- REST APIs, WebSockets, background retries, HMAC-signed API keys
+
+### 💻 Frontend
+- React, React Router, Next.js, TypeScript, JavaScript
+- Vite, Tailwind CSS, Recharts
+- Ajax, jQuery, Bootstrap, HTML5, CSS3
+- WPF for Windows desktop apps
+
+### 📱 Mobile
+- Flutter, Dart, Material Design
+- Offline-first sync, secure token storage, connectivity-aware auto-sync
 
 ### 🗄️ Databases
-- Strong knowledge of SQL Server and MySQL (Oracle).
+- SQL Server, MySQL, PostgreSQL
+- TimescaleDB for time-series workloads (hypertables, retention, compression)
 
-### 🛠️ Tools & Architecture
-- Skilled in using Jenkins, Postman, Swagger, and following N-Tier Architecture.
-- Experience with AWS CloudWatch, EC2, ECS, and Zendesk API integrations.
+### ☁️ Cloud & DevOps
+- AWS — EC2, ECS, S3, CloudWatch
+- Azure fundamentals
+- Docker, Docker Compose, multi-stage builds
+- Caddy / Nginx as reverse proxies with automatic HTTPS (Let's Encrypt)
+- Jenkins, CI/CD pipelines, Postman, FileZilla, Zendesk API
 
-### 🔧 Version Control & Project Management
-- Familiar with Git, SourceTree, SVN, and Visual Studio Team Services (TFS).
-- Experience with project management tools like Jira and working in Agile-Scrum environments.
+### 🔒 Authentication & Security
+- JWT (SimpleJWT, PyJWT), bcrypt password hashing (passlib)
+- Role-Based Access Control (RBAC), per-project / per-resource authorization
+- HMAC-signed API keys for machine-to-machine traffic
+
+### 🧱 Architecture
+- Clean Architecture, Hexagonal (Ports & Adapters), CQRS, N-Tier, Microservices
+- Multi-tenant SaaS, Contract-First API Design, Event-driven / Real-time systems
+- Repository & Factory Patterns, Dependency Inversion, SOLID Principles
+
+### 🧪 Testing
+- NUnit, XUnit, Python `unittest`, `flutter_test`
+- Ruff for Python linting, strict TypeScript
+- Code reviews and pull-request-driven development
+
+### 🐍 Automation & Scripting
+- Python-based web scraping and automation (Playwright, Selenium, Scrapy)
+- Google Apps Script, Chrome Extension development
+
+### 🧰 Tools & Version Control
+- Git, GitHub, SVN, TFS, SourceTree
+- Visual Studio 2022, VS Code, JIRA
+
+### 📊 Reporting
+- Crystal Reports, iTextSharp, Thymeleaf
 
 ### 🚀 Methodologies & SDLC
-- Expertise in managing all phases of the Software Development Life Cycle (SDLC), including requirement analysis, design, development, testing, implementation, and troubleshooting.
+- Agile / Scrum, full SDLC ownership — requirements, design, development, testing, deployment, and support
+- CI/CD-driven delivery
 
 ### 🤝 Client Collaboration & Leadership
-- Skilled at translating client requirements into technical solutions.
-- Collaborative team player and mentor with a focus on fostering productivity and cooperation in teams.
+- Skilled at translating client requirements into technical solutions
+- Collaborative team player and mentor with a focus on productivity and shared ownership
 
 ---
 
 Feel free to reach out for collaborations or technical discussions!
-
 
 <!---
 sumraimtiyaz/sumraimtiyaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
